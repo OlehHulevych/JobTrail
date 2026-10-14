@@ -18,4 +18,8 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\JobTrail.Api\JobTrail.Api.csproj" />
+  </ItemGroup>
+
 </Project>

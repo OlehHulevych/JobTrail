@@ -18,4 +18,9 @@
     <Using Include="Xunit" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\JobTrail.Domain\JobTrail.Domain.csproj" />
+    <ProjectReference Include="..\..\src\JobTrail.Application\JobTrail.Application.csproj" />
+  </ItemGroup>
+
 </Project>

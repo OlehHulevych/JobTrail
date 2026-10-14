@@ -1,2 +1,12 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JobTrail.Api/JobTrail.Api.csproj" />
+    <Project Path="src/JobTrail.Application/JobTrail.Application.csproj" />
+    <Project Path="src/JobTrail.Domain/JobTrail.Domain.csproj" />
+    <Project Path="src/JobTrail.Infrastructure/JobTrail.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/JobTrail.IntegrationTests/JobTrail.IntegrationTests.csproj" />
+    <Project Path="tests/JobTrail.UnitTests/JobTrail.UnitTests.csproj" />
+  </Folder>
 </Solution>

@@ -428,4 +428,5 @@ FodyWeavers.xsd
 #*.lscache
 .claude/
 CLAUDE.md
+.docs/CLAUDE.md
 
